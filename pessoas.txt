@@ -1,0 +1,4 @@
+Nome	Idade	Genero	
+Carlos	16	M	
+Melissa	16	F	
+Inaldo	16	M	
