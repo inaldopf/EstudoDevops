@@ -1,4 +1,4 @@
 Nome	Idade	Genero	
-Carlos	Ronaldo	M	
-Melissa	F	16	
-Inaldo	31/10/2007	M	
+Carlos	16	M	
+Melissa	16	F	
+Inaldo	16	M	
